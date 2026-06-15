@@ -72,5 +72,19 @@
   "Load Balancer": {"zh": "负载均衡器", "keep_original": false},
   "NAT": {"zh": "NAT", "keep_original": true, "note": "协议缩写"},
   "VPN": {"zh": "VPN", "keep_original": true, "note": "协议缩写"},
-  "IPAM": {"zh": "IPAM", "keep_original": true, "note": "缩写"}
+  "IPAM": {"zh": "IPAM", "keep_original": true, "note": "缩写"},
+  "Distributed Power Management": {"zh": "分布式电源管理", "keep_original": false},
+  "Raw Device Mapping": {"zh": "裸设备映射", "keep_original": false},
+  "Storage I/O Control": {"zh": "存储 I/O 控制", "keep_original": false},
+  "Enhanced vMotion Compatibility": {"zh": "增强型 vMotion 兼容性", "keep_original": false},
+  "EVC": {"zh": "EVC", "keep_original": true, "note": "Enhanced vMotion Compatibility 缩写"},
+  "Admission Control": {"zh": "准入控制", "keep_original": false},
+  "VMkernel": {"zh": "VMkernel", "keep_original": true, "note": "VMware 内核接口"},
+  "VMFS": {"zh": "VMFS", "keep_original": true, "note": "VMware 文件系统"},
+  "Affinity Rules": {"zh": "关联性规则", "keep_original": false},
+  "I/O Filter": {"zh": "I/O 筛选器", "keep_original": false},
+  "Datastore Browser": {"zh": "数据存储浏览器", "keep_original": false},
+  "Port Group": {"zh": "端口组", "keep_original": false},
+  "Resource Reservation": {"zh": "资源预留", "keep_original": false},
+  "Customization Specification": {"zh": "自定义规范", "keep_original": false}
 }
