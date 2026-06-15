@@ -1,0 +1,12 @@
+{
+  "label.showback": "成本展示",
+  "label.carbon_footprint": "碳足迹",
+  "label.cost_management": "成本管理",
+  "msg.carbon_reduction": "潜在碳减排量：{value} 千克 CO₂",
+  "label.chargeback": "费用分摊",
+  "msg.cost_saving": "预计每月节省金额：{amount}",
+  "label.ai_capacity": "AI 驱动的容量规划",
+  "nav.sustainability": "可持续性",
+  "nav.cost": "成本",
+  "label.sustainability": "可持续性"
+}
