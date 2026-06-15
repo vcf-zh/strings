@@ -1,0 +1,12 @@
+{
+  "esa.single_tier": "单层架构",
+  "label.esa": "vSAN ESA",
+  "health.esa_config": "ESA 配置",
+  "perf.congestion": "拥塞",
+  "label.datastore_cluster": "数据存储集群",
+  "msg.esa_upgrade": "此集群符合 ESA 升级条件。",
+  "esa.compression_only": "仅压缩",
+  "label.osa": "vSAN OSA",
+  "action.quick_repair": "快速修复",
+  "action.deep_repair": "深度修复"
+}
