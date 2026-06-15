@@ -1,0 +1,12 @@
+{
+  "label.transit_gateway": "中转网关",
+  "label.ids": "IDS",
+  "label.idps": "IDS/IPS",
+  "label.url_analysis": "URL 分析",
+  "label.multicloud": "多云连接",
+  "label.malware_prevention": "恶意软件防护",
+  "action.enable_idps": "启用 IDS/IPS",
+  "label.ips": "IPS",
+  "msg.idps_signature_update": "IDS/IPS 签名已更新至版本 {version}。",
+  "firewall.redirect": "重定向"
+}
