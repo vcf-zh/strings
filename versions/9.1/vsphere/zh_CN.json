@@ -1,0 +1,12 @@
+{
+  "snapshot.instant": "即时快照",
+  "label.vcenter_version": "vCenter 版本",
+  "action.upgrade": "升级",
+  "cluster.fault_tolerance": "容错",
+  "cluster.multi_site": "多站点集群",
+  "snapshot.schedule": "计划快照",
+  "ai.anomaly_detected": "{object} 中检测到异常。查看 AI 建议。",
+  "ai.suggest": "AI 建议",
+  "ai.assistant": "AI 助手",
+  "msg.upgrade_available": "有新版本 {version} 可用。安排升级？"
+}
