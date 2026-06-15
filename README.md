@@ -38,6 +38,13 @@ terminology/
 | nsx | NSX 网络与安全 |
 | operations | VMware Aria Operations |
 
+## 已支持版本
+
+| 版本 | 状态 |
+|------|------|
+| VCF 9.0 | 已完成（232 条） |
+| VCF 9.1 | 已完成（272 条，含 9.0 继承） |
+
 ## 翻译质量
 
 - 主引擎：Google Gemini 2.0 Flash
